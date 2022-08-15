@@ -1,10 +1,10 @@
-# Joe's Operator Academy Project Template
+# Joe's Very Good Operator Academy Project Template
 
 Welcome to Week 6, the project week! During this week, we'll put together everything we've learned during Operator Academy to build a final project.
 
 This repository contains a template to use for your final project. Keep reading to learn about how the project works, and what you should do to complete the project assignment.
 
-- [Joe's Operator Academy Project Template](#joes-operator-academy-project-template)
+- [Joe's Very Good Operator Academy Project Template](#joes-very-good-operator-academy-project-template)
   - [Quick Summary:](#quick-summary)
   - [The project template](#the-project-template)
   - [Getting the project](#getting-the-project)
